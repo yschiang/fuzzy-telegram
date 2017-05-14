@@ -1,0 +1,9 @@
+[14-May-2017 14:47:39 UTC] PHP Warning:  require(/home/ubuntu/workspace/fuzzy-telegram/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/fuzzy-telegram/public/index.php on line 12
+[14-May-2017 14:47:39 UTC] PHP Stack trace:
+[14-May-2017 14:47:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/fuzzy-telegram/public/index.php:0
+[14-May-2017 14:47:39 UTC] PHP Fatal error:  require(): Failed opening required '/home/ubuntu/workspace/fuzzy-telegram/public/../vendor/autoload.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/fuzzy-telegram/public/index.php on line 12
+[14-May-2017 14:47:39 UTC] PHP Stack trace:
+[14-May-2017 14:47:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/fuzzy-telegram/public/index.php:0
+[14-May-2017 14:59:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/fuzzy-telegram/templates/index.phtml on line 52
+[14-May-2017 14:59:20 UTC] PHP Stack trace:
+[14-May-2017 14:59:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/fuzzy-telegram/templates/index.phtml:0
